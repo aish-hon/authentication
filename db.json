@@ -1,0 +1,14 @@
+{
+  "user": [
+    {
+      "id": "aish",
+      "name": "Aishwarya",
+      "password": "128",
+      "email": "abc@gmail.com",
+      "phone": "01234512345",
+      "country": "india",
+      "address": "Nagar",
+      "gender": "female"
+    }
+  ]
+}
